@@ -5,9 +5,9 @@ CyberLab Suite is a safe, portfolio-oriented Python desktop application that dem
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/Screenshot 2026-09-07 195317.png" width="250">
-  <img src="screenshots/Screenshot 2026-09-07 195341.png" width="250">
-  <img src="screenshots/Screenshot 2026-09-07 195355.png" width="250">
+  <img src="screenshots/Screenshot 1.png" width="250">
+  <img src="screenshots/Screenshot 2.png" width="250">
+  <img src="screenshots/Screenshot 3.png" width="250">
 </p>
 
 ## Included Modules
