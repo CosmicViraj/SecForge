@@ -2,6 +2,14 @@
 
 CyberLab Suite is a safe, portfolio-oriented Python desktop application that demonstrates cybersecurity concepts without including credential theft, denial-of-service attacks, unauthorized cracking, or real email spoofing.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/Screenshot 2026-09-07 195317.png" width="250">
+  <img src="screenshots/Screenshot 2026-09-07 195341.png" width="250">
+  <img src="screenshots/Screenshot 2026-09-07 195355.png" width="250">
+</p>
+
 ## Included Modules
 
 - Key Event Visualizer — shows keyboard events only while its own text box is focused
